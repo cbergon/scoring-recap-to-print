@@ -1,0 +1,53 @@
+[
+  {
+    "workout": "FOR TIME",
+    "duration_in_minutes": 16,
+    "round_count": 4,
+    "movements": [
+      {
+        "order": 0,
+        "name": "Worm Clean & Jerk",
+        "reps": 5,
+        "participants": {
+          "counts": 2,
+          "genre": ["F1", "M1"]
+        }
+      },
+      {
+        "order": 1,
+        "name": "Toes to Bar",
+        "reps": 15,
+        "participants": {
+          "counts": 2,
+          "genre": ["F1", "M1"],
+          "synchronised": true
+        }
+      },
+      {
+        "order": 2,
+        "name": "Worm Clean & Jerk",
+        "reps": 20,
+        "participants": {
+          "counts": 2,
+          "genre": ["F2", "M2"]
+        }
+      },
+      {
+        "order": 3,
+        "name": "Toes To Trapeze",
+        "reps": 30,
+        "participants": {
+          "counts": 1
+        }
+      },
+      {
+        "order": 4,
+        "name": "Toes To Bar",
+        "reps": 30,
+        "participants": {
+          "counts": 1
+        }
+      }
+    ]
+  }
+]
